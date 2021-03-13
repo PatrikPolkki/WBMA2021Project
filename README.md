@@ -19,11 +19,14 @@ Employee and Employer can communicate via comments inside job offer/employee not
 
 ## UI
 
-### Employer status
-plaa
-
 ### Employee status
-plaa
+<img src="https://user-images.githubusercontent.com/74305561/111032898-34ce9480-8417-11eb-9b04-6b395b776128.PNG" width="250">
+<img src="https://user-images.githubusercontent.com/74305561/111032899-37c98500-8417-11eb-95ea-bc5c1b65dcf6.PNG" width="250">
+<img src="https://user-images.githubusercontent.com/74305561/111032903-3ac47580-8417-11eb-877a-439487262b7c.PNG" width="250">
+
+### Employer status
+<img src="https://user-images.githubusercontent.com/74305561/111032908-40ba5680-8417-11eb-9ace-e94fab2ec2a2.PNG" width="250">
+<img src="https://user-images.githubusercontent.com/74305561/111032911-49ab2800-8417-11eb-8ad1-d067c7ee905d.PNG" width="250">
 
 ## Development setup
 
