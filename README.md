@@ -1,6 +1,6 @@
 # Officium
 
-Officium is a job marketplace for odd jobs. Officium app is made React Native.
+Officium is a job marketplace for odd jobs. Officium app is by made React Native.
 
 <img src="https://user-images.githubusercontent.com/74305561/111033219-c2f74a80-8418-11eb-81c0-4b0863c73e4d.PNG" width="300"> <img src="https://user-images.githubusercontent.com/74305561/111032729-52e7c500-8416-11eb-8491-0a85d8a75c7c.PNG" width="300">
 
