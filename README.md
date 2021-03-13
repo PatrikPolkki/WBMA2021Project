@@ -17,6 +17,14 @@ In Officium you can create an account with either employer status or employee st
 If you choose to be employee and you are looking for odd job, you can browse them on the front page. You can also publish your own employee publication stating what kind job you are looking for and where and what are you skills and expertise.  
 Employee and Employer can communicate via comments inside job offer/employee notice or send email.
 
+## UI
+
+### Employer status
+plaa
+
+### Employee status
+plaa
+
 ## Development setup
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
