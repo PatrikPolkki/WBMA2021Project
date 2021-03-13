@@ -32,6 +32,5 @@ Employee and Employer can communicate via comments inside job offer/employee not
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ```sh
-make install
-npm test
+MAPBOX_TOKEN=<your mapbox token>
 ```
