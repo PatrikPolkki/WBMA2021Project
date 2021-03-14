@@ -28,8 +28,7 @@ Employee and Employer can communicate via comments inside job offer/employee not
 <img src="https://user-images.githubusercontent.com/74305561/111032908-40ba5680-8417-11eb-9ace-e94fab2ec2a2.PNG" width="250"> <img src="https://user-images.githubusercontent.com/74305561/111032911-49ab2800-8417-11eb-8ad1-d067c7ee905d.PNG" width="250"> <img src="https://user-images.githubusercontent.com/74305561/111033318-54ff5300-8419-11eb-865b-fa351b7f75b4.PNG" width="250">
 
 ## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+Provide .env with your corresponding values.
 
 ```sh
 MAPBOX_TOKEN=<your mapbox token>
