@@ -30,6 +30,4 @@ Employee and Employer can communicate via comments inside job offer/employee not
 ## Development setup
 Provide .env with your corresponding values.
 
-```sh
-MAPBOX_TOKEN=<your mapbox token>
-```
+* MAPBOX_TOKEN=`<your mapbox token>`
